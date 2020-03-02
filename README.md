@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# zhihudaily
+react 实现知乎日报
+=======
+>>>>>>> 378de497db9acfd15ec7f06d609018d396d8ae27
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +73,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<<<<<<< HEAD
+=======
+>>>>>>> init project
+>>>>>>> 378de497db9acfd15ec7f06d609018d396d8ae27
