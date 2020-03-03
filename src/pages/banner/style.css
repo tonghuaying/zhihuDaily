@@ -3,4 +3,20 @@
     height: 460px;
     width: 100%;
     color: #fff;
+    position: relative;
+}
+.banner-left {
+    position: absolute;
+    left: 51px;
+    top: 12px;
+    width: 409px;
+    height: 448px;
+    background: url(../../static/images/phone_sample.png) no-repeat center center;
+}
+.banner-right {
+    position: absolute;
+    top: 12px;
+    left: 500px;
+    width: 392px;
+    bottom: 0;
 }

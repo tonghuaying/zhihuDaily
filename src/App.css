@@ -20,6 +20,13 @@ body {
     min-width: 900px;
     min-height: 900px;
 }
+.header-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 78px;
+}
 .main-body {
     position: absolute;
     top: 78px;
