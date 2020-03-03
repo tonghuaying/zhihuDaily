@@ -1,0 +1,37 @@
+.header {
+    height: 78px;
+    margin: 0 auto;
+    position: position;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.header-logo {
+    margin-left: 50px;
+    width: 220px;
+    height: 78px;
+    background: url(../../static/images/top_logo.png) no-repeat center center;
+}
+.header-right {
+    position: absolute;
+    right: 15px;
+    top: 0;
+    height: 100%;
+    display: flex;
+    padding-top: 42px;
+}
+.app-download {
+    width: 120px;
+    height: 32px;
+    line-height: 32px;
+    text-align: center;
+    background: #f0f9ff;
+    color: #008bed;
+    border-radius: 3px;
+}
+.view-content {
+    width: 120px;
+    height: 32px;
+    line-height: 32px;
+    text-align: center;
+}
