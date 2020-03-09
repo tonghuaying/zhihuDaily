@@ -19,4 +19,53 @@
     left: 500px;
     width: 392px;
     bottom: 0;
+    padding-top: 100px;
+}
+.banner-title {
+    font-size: 30px;
+}
+.banner-desc {
+    color: rgba(255,255,255,.7);
+}
+.banner-imgs {
+    display: flex;
+    padding-top: 40px;
+}
+.banner-imgs-qr {
+    width: 135px;
+    height: 135px;
+    background: url(../../static/images/qr_top2.png) no-repeat;
+}
+.banner-imgs-phone {
+    width: calc(100% - 150px);
+    padding-left: 30px; 
+}
+.banner-imgs-iphone,
+.banner-imgs-android {
+    width: 194px;
+    height: 64px;
+    line-height: 64px;
+    background: #fff;
+    color: #666;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+.banner-imgs-iphone .img-icon ,
+.banner-imgs-android .img-icon{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin-top: 7px;
+}
+.banner-imgs-iphone .img-icon  {
+    background: url(../../static/images/iphone_logo.png) no-repeat center center;
+}
+.banner-imgs-android .img-icon {
+    background: url(../../static/images/android_logo.png) no-repeat center center;
+}
+.banner-imgs-iphone .img-name,
+.banner-imgs-android .img-name {
+    font-size: 20px;
+    vertical-align: 17px;
+    margin-left: 5px;
 }

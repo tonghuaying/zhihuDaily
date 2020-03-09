@@ -6,7 +6,7 @@ import Banner from './pages/banner';
 function App() {
   return (
     <Fragment>
-      <div class="header-container">
+      <div className="header-container">
         <Header></Header>
       </div>
       <div className="main-body">
